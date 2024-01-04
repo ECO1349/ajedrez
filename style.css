@@ -1,0 +1,16 @@
+body {
+    font-family:chess;
+    margin: 0;
+    background-color:#FFFFFF;
+  background-image: url("https://img.freepik.com/free-photo/dark-brown-wood-table_1208-378.jpg");
+  background-size: cover;
+}
+
+.square {
+    background:#afa;
+    display:inline-block;
+    border:1px solid #fff;
+    text-align:center;
+    position: absolute;
+    cursor: pointer;
+}
